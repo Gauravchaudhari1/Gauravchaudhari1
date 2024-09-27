@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav Chaudhari
-- 👀 I’m interested in Java Devloper
+- 👀 I’m interested in Java developer
 - 🌱 I’m currently learning Full Stack Java With Angular
 - 💞️ I’m looking for Job in Full Stack Java
 <!---
